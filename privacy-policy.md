@@ -7,7 +7,7 @@ Last updated: May 31, 2026
 
 ## 1. Who we are
 
-ScentPass is a personal fragrance journal app developed by **Jose Cepero**, an independent developer. If you have any questions about this Privacy Policy or how your data is handled, you can reach us at:
+ScentPass is a personal fragrance journal app developed by **GanbareLabs**, an independent developer. If you have any questions about this Privacy Policy or how your data is handled, you can reach us at:
 
 **Email:** scentpass.support@gmail.com
 
@@ -98,5 +98,5 @@ If we make material changes to this Privacy Policy, we will update the "Last upd
 
 For any privacy-related questions or requests:
 
-**Jose Cepero**
+** Cepero**
 scentpass.support@gmail.com
