@@ -13,7 +13,7 @@ By downloading, installing, or using ScentPass ("the App"), you agree to be boun
 
 ## 2. About the App
 
-ScentPass is a personal fragrance journal that allows users to build an olfactory profile, manage a fragrance collection, and share their preferences with perfume specialists. The App is developed and maintained by Jose Cepero, an independent developer.
+ScentPass is a personal fragrance journal that allows users to build an olfactory profile, manage a fragrance collection, and share their preferences with perfume specialists. The App is developed and maintained by GanbareLabs, an independent developer.
 
 ---
 
@@ -52,7 +52,7 @@ You agree not to use ScentPass to:
 
 ## 7. Intellectual property
 
-All design, branding, code, and content created by ScentPass — including the name, logo, and user interface — are the intellectual property of Jose Cepero. You may not reproduce, distribute, or create derivative works without explicit written permission.
+All design, branding, code, and content created by ScentPass — including the name, logo, and user interface — are the intellectual property of GanbareLabs. You may not reproduce, distribute, or create derivative works without explicit written permission.
 
 ---
 
@@ -64,7 +64,7 @@ ScentPass is provided "as is" without warranties of any kind, either express or 
 
 ## 9. Limitation of liability
 
-To the fullest extent permitted by law, Jose Cepero shall not be liable for any indirect, incidental, special, or consequential damages arising from your use of or inability to use ScentPass, even if advised of the possibility of such damages.
+To the fullest extent permitted by law, GanbareLabs shall not be liable for any indirect, incidental, special, or consequential damages arising from your use of or inability to use ScentPass, even if advised of the possibility of such damages.
 
 ---
 
@@ -84,7 +84,7 @@ We may update these Terms and Conditions from time to time. When we do, we will 
 
 ## 12. Governing law
 
-These Terms are governed by the laws of the jurisdiction in which Jose Cepero resides, without regard to conflict of law principles.
+These Terms are governed by the laws of the jurisdiction in which GanbareLabs resides, without regard to conflict of law principles.
 
 ---
 
@@ -92,5 +92,5 @@ These Terms are governed by the laws of the jurisdiction in which Jose Cepero re
 
 For any questions about these Terms and Conditions:
 
-**Jose Cepero**
+**GanbareLabs**
 scentpass.support@gmail.com
