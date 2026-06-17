@@ -7,11 +7,9 @@ Last updated: June 17, 2026
  
 ## How to delete your account
  
-**If you have the app installed:**
-Open ScentPass, go to **Settings → Delete Account**, and confirm. Your account and all associated data are deleted permanently and immediately.
+ScentPass does not currently offer in-app account deletion. To delete your account and all associated data, email **scentpass.support@gmail.com** from the email address associated with your ScentPass account, with the subject line "Delete my account."
  
-**If you don't have access to the app:**
-Email **scentpass.support@gmail.com** from the email address associated with your ScentPass account, with the subject line "Delete my account." Once we verify your request, your account and all associated data will be permanently deleted within 30 days, consistent with our [Privacy Policy](./privacy-policy).
+Once we verify your request, your account and all associated data will be permanently deleted within 30 days.
  
 ---
  
